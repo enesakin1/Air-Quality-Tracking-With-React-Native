@@ -1,0 +1,39 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-polyfill": "^6.26.0",
+    "expo": "~39.0.2",
+    "expo-chart-kit": "^1.2.4",
+    "expo-status-bar": "~1.0.2",
+    "firebase": "7.9.0",
+    "google-palette": "^1.1.0",
+    "lodash": "^4.17.20",
+    "paths-js": "^0.4.11",
+    "point-in-polygon": "^1.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-chart-kit": "^6.7.0",
+    "react-native-numeric-input": "^1.8.3",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-scrollable-tab-view": "^1.0.0",
+    "react-native-status-bar-height": "^2.6.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-web": "~0.13.12",
+    "expo-permissions": "~9.3.0",
+    "expo-notifications": "~0.7.2",
+    "expo-constants": "~9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
